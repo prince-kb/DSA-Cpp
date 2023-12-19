@@ -1,0 +1,2 @@
+
+    cout<<map[p].length()<<" ";

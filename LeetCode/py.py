@@ -1,1 +1,0 @@
-# write code to print elements of array

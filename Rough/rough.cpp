@@ -167,7 +167,7 @@ void merge_sort(int arr[],int l,int h){
 }
 
 
-void main(){
+int main(){
     int arr[]={2,3,5,1,6,4,8,6,9,0,-2,1,45,6},n=14,a=9;
     printArray(arr,n);
     // bubble_sort(arr,n);

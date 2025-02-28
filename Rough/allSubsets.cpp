@@ -9,6 +9,7 @@ void printArray(vector<string>a){
         cout<<a[i]<<" ";
     cout<<endl;
 }
+
 void subsets(string s,int i,string k,vector<string>&a){
     a.push_back(k);
     for(int j=i;j<s.size();j++){

@@ -8,7 +8,6 @@ void toh(int n,char a,char b,char c){
         toh(n-1,a,c,b);
         cout<<"Move disk "<<n<<" from "<<a<<" to "<<c<<endl;
         toh(n-1,b,a,c);
-
     }
 }
 int main(){

@@ -21,10 +21,9 @@ void subsets(string s,int i,string k,vector<string>&a){
 
 int main(){
     vector<string>a;
-    string s="abc";
+    string s="abcd";
 
     subsets(s,0,"",a);
 
-    
     printArray(a);
 }

@@ -12,13 +12,11 @@ using namespace std;
                         return i;
                     }
                     else break;
-                    
                 }
-
             }
         }
         return -1;
     }
 int main(){
-cout<<ss("leetcode","leeto");
+    cout<<ss("leetcode","leeto");
 }
